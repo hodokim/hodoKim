@@ -1,31 +1,30 @@
 ## 💪 Skills
 #### Languages & FrameWork
 <p>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&amp;logo=vue.js&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
 </p>
 
 #### Tools
 <p>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&amp;logo=github&amp;logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual studio code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&amp;logo=eclipseide&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&amp;logo=intellijidea&amp;logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/microsoft sql server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"> 
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft sql server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=black">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> 
-  
+  <img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=flat-square&amp;logo=apachetomcat&amp;logoColor=black">  
 </p>
 
 
