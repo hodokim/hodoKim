@@ -1,5 +1,5 @@
 ## 💪 Skills 
-#### Languages & FrameWork
+#### Languages & Tools
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white">
   <br>
@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white">
 </p>
 
-#### Tools
 <p>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=github&amp;logoColor=white">
   <br>
